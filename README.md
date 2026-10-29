@@ -60,7 +60,8 @@
 
 Проверял для первого массива 3x4, для второго 4x4, для третьего 5x5.
 
-![Задание 1](screenshots/task1.png)
+<img width="640" height="541" alt="3 1" src="https://github.com/user-attachments/assets/486c5b54-5a94-43e7-99c4-ef1686dc23b0" />
+
 
 ---
 
@@ -97,7 +98,8 @@
 13 14 15 16 17 18 19 20
 ```
 
-![Задание 2](screenshots/task2.png)
+<img width="479" height="247" alt="3 2" src="https://github.com/user-attachments/assets/002e32df-5151-46ac-8466-71ed934a319c" />
+
 
 ---
 
@@ -141,7 +143,8 @@ A = 1 2 3     B = 7  8  9     C = 1 2
 
 Результат работы программы:
 
-![Задание 3 — программа](screenshots/task3.png)
+<img width="591" height="301" alt="3 3" src="https://github.com/user-attachments/assets/64c4335c-6890-4c71-8b9b-03eb3497a360" />
+
 
 Проверка на онлайн-калькуляторе матриц (результат совпал):
 
@@ -182,7 +185,8 @@ A = 1 2 3     B = 7  8  9     C = 1 2
 
 Программа выводит содержимое файла и найденную разность. Проверял вручную: из первого числа вычитал наибольшее.
 
-![Задание 4](screenshots/task4.png)
+<img width="410" height="120" alt="3 4" src="https://github.com/user-attachments/assets/634e3f9e-7c4e-446d-ae33-a82ee00343a5" />
+
 
 ---
 
@@ -222,7 +226,8 @@ A = 1 2 3     B = 7  8  9     C = 1 2
 
 Программа выводит содержимое XML-файла и стоимость кукол для шестилетних детей.
 
-![Задание 5](screenshots/task5.png)
+<img width="912" height="721" alt="3 5" src="https://github.com/user-attachments/assets/57d24b64-7b74-4ac6-bb71-1529fc69436f" />
+
 
 ---
 
@@ -254,7 +259,8 @@ A = 1 2 3     B = 7  8  9     C = 1 2
 
 Программа показывает исходный файл `numbers6.txt` и новый `numbers6_out.txt`. Каждое число во втором файле на 1 меньше, чем в первом.
 
-![Задание 6](screenshots/task6.png)
+<img width="554" height="442" alt="3 6" src="https://github.com/user-attachments/assets/357bf63f-c55c-4b83-9842-89c2e21582bf" />
+
 
 ---
 
@@ -290,7 +296,8 @@ A = 1 2 3     B = 7  8  9     C = 1 2
 
 Программа выводит содержимое файла `numbers7.txt` и найденную разность. Проверил вручную: первое число в файле минус наибольшее.
 
-![Задание 7](screenshots/task7.png)
+<img width="585" height="147" alt="3 7" src="https://github.com/user-attachments/assets/c40926a0-4a17-4b14-bb13-19430f1262e2" />
+
 
 ---
 
@@ -322,4 +329,4 @@ A = 1 2 3     B = 7  8  9     C = 1 2
 
 Программа выводит исходный файл `text8.txt` и результат `text8_out.txt`, в котором остались только строки, начинающиеся с «б».
 
-![Задание 8](screenshots/task8.png)
+<img width="554" height="316" alt="3 8" src="https://github.com/user-attachments/assets/b2d9159a-cfe0-49fe-aff3-53edd10f7423" />
